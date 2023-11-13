@@ -360,4 +360,58 @@ footer {
 
 .arrepentimiento {
     display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.arrepentimiento h3 {
+    color: #54b854;
+    font-size: 16px;
+}
+
+.arrepentimiento p {
+    color: #474747 ;
+    font-size: 12px;
+}
+
+.arrepentimiento a {
+    text-decoration: none;
+    color: #54b854;
+}
+
+.forma-de-pago {
+    background-color: white;
+    padding: 25px 40px;
+    display: flex;   
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tarjetas {
+    display: flex;
+    margin: 0 190px 0 0;
+}
+
+.tarjetas img {
+    margin: 5px;
+    width: 50px;
+    
+}
+
+.redes {
+    display: flex;
+    align-items: center;
+}
+
+.redes img {
+    background-color: #979494;
+    border-radius: 60%;
+    padding: 10px;
+    opacity: 60%;
+    margin: 10px;
+    width: 15px;
+}
+
+.dataFiscal img {
+    margin-left: 150px;
+    width: 40px;
 }
